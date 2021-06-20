@@ -27,7 +27,7 @@
       "description": "Bot token of bot made from @BotFather",
       "required": true
     },
-    "HELL_SESSION": {
+    "MUSIC_SESSION": {
       "description": "See repo to get string making link.",
       "required": true
     },
